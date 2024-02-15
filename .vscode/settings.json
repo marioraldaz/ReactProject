@@ -1,5 +1,0 @@
-{
-    "files.autoSave": "onWindowChange",
-    "editor.defaultFormatter": "planbcoding.vscode-react-refactor",
-    "editor.formatOnSave": true
-}
